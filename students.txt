@@ -1,4 +1,4 @@
-101 - Rahul - BSc IT - Main Branch
-101 - rahul - BSc.IT
-103 - Amit -BSc.IT
-104 - neha -BSc.IT
+101 - Rahul - BSc IT
+102 - Priya - BSc IT
+103 - Amit - BSc IT
+104 - Neha - BSc IT
